@@ -1,3 +1,2 @@
 new data for dev team.
-hello byebye
-good afternoon
+hello
